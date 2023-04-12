@@ -1,2 +1,2 @@
-# team_grit
+# mongo-mongoexpress-minikube
 Project testing
